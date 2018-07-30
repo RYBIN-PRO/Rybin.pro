@@ -1,3 +1,3 @@
 RewriteEngine On
-RewriteCond %{HTTP_HOST} http://rybin.pro
+RewriteCond %{HTTP_HOST} http://rybin-pro.github.io/rybin.pro
 RewriteRule (.*) http://rybin.webflow.io [R=301,L]
